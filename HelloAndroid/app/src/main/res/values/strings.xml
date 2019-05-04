@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="test">java test at 1 pm</string>
+</resources>

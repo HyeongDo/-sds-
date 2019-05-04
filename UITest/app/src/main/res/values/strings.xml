@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UITest</string>
+    <string name="UITest">This is a UITest Activity</string>
+    <string name="first_label">Press this button</string>
+</resources>

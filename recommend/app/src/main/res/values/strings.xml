@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">recommend</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_first1">First1Activity</string>
+</resources>
